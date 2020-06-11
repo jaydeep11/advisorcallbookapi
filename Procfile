@@ -1,1 +1,1 @@
-web: gununicorn apiadvisorcall.wsgi --log-file -
+web: gunicorn apiadvisorcall.wsgi --log-file -
