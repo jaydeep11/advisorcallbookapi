@@ -1,0 +1,1 @@
+web: gununicorn apiadvisorcall.wsgi --log-file -
